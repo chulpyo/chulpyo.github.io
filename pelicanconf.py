@@ -31,7 +31,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # attila
-HEADER_COVER = 'static/my_image.png'
+HEADER_COVER = 'static/images/post-bg.png'
 HEADER_COLOR = 'black'
 
 AUTHORS_BIO = {
