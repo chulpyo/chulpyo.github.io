@@ -11,7 +11,7 @@ DEFAULT_DATE = 'fs'
 
 DEFAULT_DATE_FORMAT = '%Y/%m/%d'
 
-TIMEZONE = 'Asia/Calcutta'
+TIMEZONE = 'Asia/Seoul'
 
 DEFAULT_LANG = u'ko'
 
@@ -142,15 +142,3 @@ AUTHORS_BIO = {
 COLOR_SCHEME_CSS = 'github.css'
 
 CSS_OVERRIDE = ['assets/css/myblog.css']
-
-# Jinja config - Pelican 4
-# JINJA_ENVIRONMENT = {
-#   'extensions' :[
-#     'jinja2.ext.loopcontrols',
-#     'jinja2.ext.i18n',
-#     'jinja2.ext.with_',
-#     'jinja2.ext.do'
-#   ]
-# }
-
-# JINJA_FILTERS = {'max': max}
