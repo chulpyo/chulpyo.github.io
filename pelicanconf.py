@@ -29,3 +29,18 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# attila
+HEADER_COVER = 'static/my_image.png'
+HEADER_COLOR = 'black'
+
+AUTHORS_BIO = {
+  "zutrinken": {
+    "name": "Zutrinken",
+    "cover": "https://arulrajnet.github.io/attila-demo/assets/images/avatar.png",
+    "image": "https://arulrajnet.github.io/attila-demo/assets/images/avatar.png",
+    "website": "http://blog.arulraj.net",
+    "location": "Chennai",
+    "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
+  }
+}
