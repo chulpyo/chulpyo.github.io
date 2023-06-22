@@ -105,7 +105,7 @@ SITEMAP = {
 # Analytics
 # GOOGLE_ANALYTICS = "UA-3546274-12"
 
-THEME = 'attila'
+THEME = 'simple'
 
 ### Theme specific settings
 
@@ -142,3 +142,6 @@ AUTHORS_BIO = {
 COLOR_SCHEME_CSS = 'github.css'
 
 CSS_OVERRIDE = ['assets/css/myblog.css']
+
+
+# Output
