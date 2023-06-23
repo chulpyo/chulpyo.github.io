@@ -81,7 +81,8 @@ PLUGIN_PATHS = [
 PLUGINS = [
   'sitemap',
   'neighbors',
-  'assets'
+  'assets',
+  'articles_paginator'
 ]
 
 # Sitemap
@@ -105,7 +106,7 @@ SITEMAP = {
 # Analytics
 # GOOGLE_ANALYTICS = "UA-3546274-12"
 
-THEME = 'simple'
+THEME = 'pelican-themes/backdrop'
 
 ### Theme specific settings
 
