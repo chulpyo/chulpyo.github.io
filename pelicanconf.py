@@ -2,7 +2,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Chulpyo'
 SITENAME = u'blog.chulpyo.me'
-SITESUBTITLE = u'Blog description here.'
+SITESUBTITLE = u'Development Log & History'
 SITEURL = ''
 
 PATH = 'content'
@@ -34,7 +34,7 @@ SOCIAL = (('Facebook', 'http://facebook.com/arulraj.net'),
           )
 
 # Pagination
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 5
 PAGINATION_PATTERNS = (
     (1, '{base_name}/', '{base_name}/index.html'),
     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
@@ -44,10 +44,12 @@ PAGINATION_PATTERNS = (
 #RELATIVE_URLS = True
 
 STATIC_PATHS = ['assets']
+PAGE_PATHS = ['pages']
 
 EXTRA_PATH_METADATA = {
     'assets/robots.txt': {'path': 'robots.txt'},
     'assets/favicon.ico': {'path': 'favicon.ico'},
+    'assets/favicon.png': {'path': 'favicon.png'},
     'assets/CNAME': {'path': 'CNAME'}
 }
 
@@ -81,8 +83,7 @@ PLUGIN_PATHS = [
 PLUGINS = [
   'sitemap',
   'neighbors',
-  'assets',
-  'articles_paginator'
+  'assets'
 ]
 
 # Sitemap
@@ -106,7 +107,7 @@ SITEMAP = {
 # Analytics
 # GOOGLE_ANALYTICS = "UA-3546274-12"
 
-THEME = 'pelican-themes/backdrop'
+THEME = 'chulpyome'
 
 ### Theme specific settings
 
@@ -131,7 +132,7 @@ AUTHORS_BIO = {
     "name": "Chulpyo Kim",
     "cover": "https://casper.ghost.org/v1.0.0/images/team.jpg",
     "image": "assets/images/avatar.png",
-    "website": "http://blog.arulraj.net",
+    "website": "https://blog.chulpyo.me",
     "linkedin": "unavailable",
     "github": "arulrajnet",
     "location": "Chennai",
