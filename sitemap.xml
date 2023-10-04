@@ -5,77 +5,77 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2023-10-05T03:02:37-00:00</lastmod>
+<lastmod>2023-10-05T03:36:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2023-10-05T03:02:37-00:00</lastmod>
+<lastmod>2023-10-05T03:36:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2023-10-05T03:02:37-00:00</lastmod>
+<lastmod>2023-10-05T03:36:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2023-10-05T03:02:37-00:00</lastmod>
+<lastmod>2023-10-05T03:36:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2023-10-05T03:02:37-00:00</lastmod>
+<lastmod>2023-10-05T03:36:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/test/</loc>
-<lastmod>2023-07-20T03:44:21+09:00</lastmod>
+<lastmod>2023-10-05T03:12:13+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/test2/</loc>
-<lastmod>2023-10-05T03:00:41+09:00</lastmod>
+<lastmod>2023-10-05T03:12:13+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/2010/12/my-first-review.html</loc>
-<lastmod>2023-07-20T01:34:22+09:00</lastmod>
+<lastmod>2023-10-05T03:12:13+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/2010/12/my-second-review.html</loc>
-<lastmod>2023-07-20T01:34:49+09:00</lastmod>
+<lastmod>2023-10-05T03:12:13+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/category/review</loc>
-<lastmod>2023-07-20T01:34:49+08:28</lastmod>
+<lastmod>2023-10-05T03:12:13+08:28</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/author/chulpyo</loc>
-<lastmod>2023-07-20T01:34:49+08:28</lastmod>
+<lastmod>2023-10-05T03:12:13+08:28</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
