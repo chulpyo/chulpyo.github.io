@@ -1,8 +1,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Chulpyo'
-SITENAME = u'blog.chulpyo.me'
-SITESUBTITLE = u'Development Log & History'
+SITENAME = u'D-E-V-L-O-G'
+SITESUBTITLE = u'개발로그'
 SITEURL = ''
 
 PATH = 'content'
