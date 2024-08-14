@@ -1,38 +1,52 @@
-# create-svelte
+# chulpyo.github.io
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+This project is for creating a blog using SvelteKit and a static site generation adapter.
 
-## Creating a project
+## Features
 
-If you're seeing this, you've probably already done this step. Congrats!
+- **SvelteKit**: A modern framework for building web applications with Svelte.
+- **Static Site Generation**: The site is pre-rendered using a static site generation adapter, providing fast load times and improved SEO.
+- **Responsive Design**: The blog is designed to be responsive and mobile-friendly.
+- **Markdown Support**: Write your blog posts in Markdown for easy content creation.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Getting Started
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+### Prerequisites
 
-## Developing
+Make sure you have the following installed:
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+- [Node.js](https://nodejs.org/) (version 16 or later)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
-```bash
-npm run dev
+### Installation
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+1. Clone this repository:
 
-## Building
+    ```bash
+    git clone https://github.com/chulpyo/chulpyo.github.io.git
+    cd chulpyo.github.io
+    ```
 
-To create a production version of your app:
+2. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Start the development server:
+
+    ```bash
+    npm run dev
+    ```
+
+4. Open your browser and navigate to `http://localhost:5173` to see the blog in action.
+
+### Building for Production
+
+To build the project for production, run:
 
 ```bash
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
